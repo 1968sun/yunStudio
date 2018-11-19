@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yunStudio">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="yunStudio.war" />
+  </artifact>
+</component>

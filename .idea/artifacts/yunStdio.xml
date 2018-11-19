@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yunStdio">
+    <output-path>$PROJECT_DIR$/out/artifacts/yunStdio</output-path>
+    <root id="archive" name="yunStdio.war">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>

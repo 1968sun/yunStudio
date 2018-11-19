@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="yunStudio">
+    <CLASSES>
+      <root url="jar://D:/jakarta-taglibs-standard-1.1.2/lib/jstl.jar!/" />
+      <root url="jar://D:/jakarta-taglibs-standard-1.1.2/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/jakarta-taglibs-standard-1.1.2/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/compat/src/main/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/impl/src/main/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/impl/src/test/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/jstlel/src/main/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/jstlel/src/test/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/spec/src/main/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/spec/src/test/java" />
+      <root url="file://D:/搜狗高速下载/taglibs-standard-1.2.5/standard-test/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
